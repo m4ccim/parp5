@@ -1,0 +1,5 @@
+MMNNNNNNNNNNNNN is found at index 2
+NOT the lastkey is NOT FOUND
+mMNNNNNNNNNNNNN is found at index 8
+AABBCCDDEEFFGGH is found at index 1
+AABBCCDDEEFFGG0 is NOT FOUND
